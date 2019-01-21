@@ -1,0 +1,23 @@
+{
+  "name": "atx-wing-tournament-manager",
+  "version": "0.0.0",
+  "description": "Electron app to manage X-Wing tournaments",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATX-Sabine/ATX-Wing-Tournament-Manager.git"
+  },
+  "author": "nodebotanist",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ATX-Sabine/ATX-Wing-Tournament-Manager/issues"
+  },
+  "homepage": "https://github.com/ATX-Sabine/ATX-Wing-Tournament-Manager#readme",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
